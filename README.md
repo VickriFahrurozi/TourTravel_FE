@@ -1,4 +1,4 @@
-NOTE : Website ini belum full responsive , silahkan cek pada size 1920px dan 798px
+NOTE : Website ini belum full responsive , silahkan cek pada size 1920px dan 767px
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
