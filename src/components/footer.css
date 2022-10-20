@@ -1,0 +1,29 @@
+.footer-word {
+
+    font-weight: bold;
+}
+
+.footer-logo {
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.copyright {
+    border: 1Px solid grey;
+    border-radius: 50%;
+}
+
+.footer-word-right {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer-sub-word {
+    color: grey;
+}
+
+.footer-main {
+    background-color: #F8F8F8;
+
+}

@@ -1,0 +1,72 @@
+.banner {
+    background-image: url('../../components/asset/assetfile/banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-top: 5%;
+}
+
+.banner-word {
+    font-size: 80px;
+    color: white;
+}
+
+.button-banner-word {
+    font-size: 50px;
+    color: white;
+    border-width: 10px;
+    border-radius: 10%;
+}
+
+.whyus-testimoni {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.whyus-word {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.whyus-sub-word {
+    font-size: 25px;
+}
+
+.whyus {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.highlight {
+    margin-top: 3%;
+}
+
+.highlight-card {
+
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left: 1.5%;
+    margin-right: 3%;
+    border: 0px solid black
+}
+
+.highlight-word {
+    font-size: 50px;
+    font-weight: bold
+}
+
+@media only screen and (max-width: 767px) {
+    .banner {
+        visibility: hidden;
+        max-height: 0;
+    }
+
+    .highlight {
+        margin-top: -10%;
+    }
+
+}

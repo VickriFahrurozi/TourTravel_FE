@@ -1,0 +1,38 @@
+.navbar-main {
+    margin-left: 5%;
+    margin-right: 3%;
+
+    padding-bottom: 1%;
+
+}
+
+.navbar-brand-word {
+    font-size: 30px;
+}
+
+.navbar-font {
+    color: black;
+    font-size: 35px;
+}
+
+.navbar-font-button {
+    color: white;
+    font-size: 20px;
+    border-radius: 15px;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+@media only screen and (max-width: 767px) {
+
+    .navbar-brand-word {
+        visibility: hidden;
+        max-height: 0;
+    }
+
+    .navbar-brand {
+        margin-left: 25%;
+    }
+
+
+}

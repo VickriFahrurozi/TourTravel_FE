@@ -1,0 +1,116 @@
+.main-product {
+    margin-bottom: -5%;
+}
+
+.product-promo {
+    border-radius: 25px;
+    margin-bottom: 10%;
+    padding-bottom: 5%;
+    padding-right: 3%;
+}
+
+.product-promo-title {
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.product-promo-sub-title {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.product-promo-coupon {
+    padding-top: 8%;
+}
+
+.product-promo-apply-coupon {
+    border-radius: 20px;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background-color: #6A4029;
+}
+
+.product-detail-name {
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+.product-detail-price {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.product-detail-button-add-chart {
+    font-size: 40px;
+    background-color: #6A4029;
+    color: white;
+    border-radius: 25px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.product-detail-navigation {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 2%;
+}
+
+.product-detail-brand {
+    color: #6A4029;
+}
+
+.product-detail-description {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 0%;
+    font-size: 50px;
+    color: #6A4029;
+}
+
+.product-detail-card {
+    border-radius: 45px;
+}
+
+.product-detail-word {
+    font-weight: bold;
+    margin-bottom: 10%;
+}
+
+.product-detail-description-word {
+    text-align: justify;
+}
+
+.Product-detail-size {
+    border-radius: 50%;
+    font-size: 35px;
+}
+
+.product-detail {
+    padding-bottom: 7%;
+}
+
+.detail-product-delivery-button {
+    font-size: 30px;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    border-radius: 20px;
+
+}
+
+.product-detail-checkout {
+    border: none;
+}
+
+.package-description {
+    font-size: 30px;
+}
+
+.checkout-button {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.checkout-word {
+    font-size: 20px;
+}

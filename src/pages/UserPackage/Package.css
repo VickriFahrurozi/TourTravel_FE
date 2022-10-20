@@ -1,0 +1,15 @@
+.packageword {
+    font-size: 70px;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.container-fluid-package {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+
+.package {
+    border: 5px solid green;
+}

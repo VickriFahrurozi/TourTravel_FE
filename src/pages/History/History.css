@@ -1,0 +1,47 @@
+.image-history {
+    width: 300px;
+    height: 300px;
+}
+
+.history-word {
+    font-size: 50px;
+}
+
+.history-sub-word {
+    font-size: 35px;
+}
+
+.history-main-word {
+    font-size: 55px
+}
+
+@media only screen and (max-width: 1327px) {
+
+    .history-word {
+        font-size: 50px;
+    }
+
+    .history-sub-word {
+        font-size: 25px;
+    }
+}
+
+@media only screen and (max-width: 620px) {
+    .history-main-word {
+        font-size: 35px
+    }
+
+    .history-word {
+        font-size: 40px;
+    }
+
+    .history-sub-word {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .history-main-word {
+        font-size: 25px
+    }
+}
